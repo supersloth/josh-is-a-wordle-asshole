@@ -1,5 +1,5 @@
 *.ini
-*.txt
+# *.txt
 exported_tweets/
 # Byte-compiled / optimized / DLL files
 __pycache__/
